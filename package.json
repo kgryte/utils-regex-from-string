@@ -1,6 +1,6 @@
 {
   "name": "utils-regex-from-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parses a regular expression string and returns a new regular expression.",
   "author": {
     "name": "Athan Reines",
